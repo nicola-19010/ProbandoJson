@@ -1,0 +1,16 @@
+[
+  {
+  "nombre" : "Alpaca",
+  "vida" : 30,
+  "nombreAtaques" : [ "Mordizco", "Patada"],
+  "ataques" : [5, 3],
+  "esAmigo": false
+  },
+  {
+  "nombre" : "Condor",
+  "vida" : 30,
+  "nombreAtaques" : [ "Picotazo", "Extiende alas"],
+  "ataques" : [4, 5],
+  "amigo": false
+  }
+]
